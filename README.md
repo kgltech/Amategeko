@@ -1,1 +1,2 @@
-I am building my first website.
+# Amategeko  
+A Road Rules Quiz website for Rwandan drivers. Built using HTML, CSS, and Firebase.  
